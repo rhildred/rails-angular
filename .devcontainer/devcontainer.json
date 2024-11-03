@@ -1,6 +1,6 @@
 {
     // ...
-  "image": "ghcr.io/rails/devcontainer/images/ruby:latest",
+  "image": "mcr.microsoft.com/devcontainers/ruby:latest",
     "overrideCommand": true,
     "customizations": {
         "vscode": {
